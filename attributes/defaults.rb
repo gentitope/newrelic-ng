@@ -18,7 +18,7 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #
 
-default['newrelic-ng']['license_key'] = 'CHANGE ME'
+default['newrelic-ng']['license_key'] = '05737f3e8a99cf75de62acbb36ffc75ad3019a6'
 
 default['newrelic-ng']['user']['name']   = 'newrelic'
 default['newrelic-ng']['user']['group']  = 'newrelic'
