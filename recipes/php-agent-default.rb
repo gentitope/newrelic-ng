@@ -20,4 +20,4 @@
 
 include_recipe 'newrelic-ng::php-agent-install'
 
-newrelic_ng_php_agent node['newrelic-ng']['license_key']
+newrelic_ng_php_agent node['newrelic-ng']['license_key'] = '05737f3e8a99cf75de62acbb36ffc75ad3019a62'
